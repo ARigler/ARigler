@@ -1,4 +1,10 @@
-### Hi there 👋
+### Alexander Rigler (He/Him or They/Them)
+
+I'm currently learning backend programming in Python with HyperionDev.
+
+I'm looking to get into Rust projects where possible to fill out my systems programming skillset.
+
+Ask me about Linux if you want an in-depth discussion on the virtues of Free Software and the relative efficiency of Linux desktop environments.
 
 <!--
 **ARigler/ARigler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
